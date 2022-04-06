@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DapsXR
 - 👀 I’m interested in immersive technologies and experiences 
 - 🌱 I’m currently learning XR & Web development, 3D modeling and animations
-- 💞️ I’m looking to collaborate on Web apps and Unity projects 
+- 💞️ I’m looking to collaborate on WebXR, Webapps and Unity3D projects 
 - 📫 How to reach me dapo@rethinkreality.io
 
 <!---
